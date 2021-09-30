@@ -1,0 +1,10 @@
+id,currency_from,currency_to,currency_exchange_value
+4,INR,USD,75
+5,INR,EUR,45
+6,INR,AUD,100
+7,INR,BMD,150
+8,INR,CRS,100
+9,INR,RKS,340
+10,INR,MRS,700
+11,INR,MES,23
+12,INR,ZPS,50
